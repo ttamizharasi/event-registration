@@ -80,9 +80,15 @@ height: 578px;
 background: #FF0EF5;
 '''
 ## OUTPUT:
-![output](./out1.png)
-![output](./out2.png)
-![output](./out3.png)
+![outf1](https://user-images.githubusercontent.com/119657317/215983703-bffd386c-45d7-4d7c-b48a-aed635337d01.png)
+
+
+![outf2](https://user-images.githubusercontent.com/119657317/215983780-d5249bec-0b35-4186-ae08-546bba72d5b4.png)
+
+
+
+![outf3](https://user-images.githubusercontent.com/119657317/215983872-f10a1b7d-ff3d-4786-86b1-52b688d4a098.png)
+
 
 ## Result:
 
