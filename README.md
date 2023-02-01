@@ -28,7 +28,7 @@ Publish the website in the given URL.
 Figma
 
 ## code:
-
+```
 /* Home Page */
 
 position: relative;
@@ -168,8 +168,7 @@ font-size: 22px;
 line-height: 27px;
 text-align: center;
 color: #FFFFFF;
-
-
+```
 ## OUTPUT:
 ![outf1](https://user-images.githubusercontent.com/119657317/215983703-bffd386c-45d7-4d7c-b48a-aed635337d01.png)
 
